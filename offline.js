@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1733232135,
+	"version": 1733233296,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -47,6 +47,8 @@
 		"media/mariah 2.ogg",
 		"media/mariah 3.m4a",
 		"media/mariah 3.ogg",
+		"media/mgwtf - mariah xmas.m4a",
+		"media/mgwtf - mariah xmas.ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
